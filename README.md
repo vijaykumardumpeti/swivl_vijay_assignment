@@ -6,7 +6,7 @@ This project aims to develop a robust inventory management system using Node.js.
 
 ## Demo and Deployment
 + **Demo Explanation Link**: Demo Explanation
-+ **Deployed Server Link**: Deployed Server
++ **Deployed Server Link**: https://swivl-vijay-assignment.onrender.com
 
 ## Technologies Used
 1. `Node.js`
