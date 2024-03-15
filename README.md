@@ -282,7 +282,7 @@ Before running the application, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/nodejs-backend-inventory-system.git
+    git clone [https://github.com/your-username/nodejs-backend-inventory-system.git](https://github.com/vijaykumardumpeti/swivl_vijay_assignment.git)
     ```
 
 2. Navigate to the project directory:
