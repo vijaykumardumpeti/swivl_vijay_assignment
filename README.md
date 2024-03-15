@@ -17,25 +17,25 @@ This project aims to develop a robust inventory management system using Node.js.
 
 ## Folder Structure
 
-├── SWIVL_BACKEND_14_MARCH/
-│ ├── controllers/
-│ │ ├── itemController.js
-│ │ └── transactionController.js
-│ ├── models/
-│ │ ├── ItemModel.js
-│ │ └── TransactionModel.js
-│ ├── routes/
-│ │ ├── itemRoutes.js
-│ │ └── transactionRoutes.js
-│ ├── db/
-│ │ ├── connectToDB.js
-│
-├── .gitignore
-├── package.json
-├── README.md
-├── package-lock.json
-├── server.js
-└── .env
+	├── SWIVL_BACKEND_14_MARCH/
+	│ ├── controllers/
+	│ │ ├── itemController.js
+	│ │ └── transactionController.js
+	│ ├── models/
+	│ │ ├── ItemModel.js
+	│ │ └── TransactionModel.js
+	│ ├── routes/
+	│ │ ├── itemRoutes.js
+	│ │ └── transactionRoutes.js
+	│ ├── db/
+	│ │ ├── connectToDB.js
+	│
+	├── .gitignore
+	├── package.json
+	├── README.md
+	├── package-lock.json
+	├── server.js
+	└── .env
 
 ## Database Schema
 
