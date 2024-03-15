@@ -271,5 +271,40 @@ This project aims to develop a robust inventory management system using Node.js.
 
 ```
 
+## How to Use
+
+### Prerequisites
+Before running the application, ensure you have the following installed:
+- Node.js
+- MongoDB (or any other preferred database)
+- Git
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/nodejs-backend-inventory-system.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd SWIVL_BACKEND_14_MARCH
+    ```
+
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Set up environment variables:
+    - Create a `.env` file in the root directory.
+    - Define environment variables such as database connection details.
+
+5. Start the server:
+    ```bash
+    npm start
+    ```
+
+### Usage
+Once the server is running, you can interact with the API using tools like cURL, Postman, or any HTTP client.
 
 
