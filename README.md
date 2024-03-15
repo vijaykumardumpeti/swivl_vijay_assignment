@@ -4,6 +4,10 @@
 
 This project aims to develop a robust inventory management system using Node.js. The system allows users to perform CRUD operations on items in the inventory and record transactions associated with those items. It utilizes RESTful API design principles and integrates with a chosen database to persist data.
 
+## Demo and Deployment
++ **Demo Explanation Link**: Demo Explanation
++ **Deployed Server Link**: Deployed Server
+
 ## Technologies Used
 1. `Node.js`
 2. `Express.js` (as the chosen framework)
@@ -267,8 +271,5 @@ This project aims to develop a robust inventory management system using Node.js.
 
 ```
 
-## Demo and Deployment
-+ **Demo Explanation Link**: Demo Explanation
-+ **Deployed Server Link**: Deployed Server
 
 
