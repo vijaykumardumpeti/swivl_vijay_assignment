@@ -18,7 +18,7 @@ app.use('/items-api', itemsRoutes)
 app.use('/transactions-api', transactionRoutes)
 
 
-app.listen(3000, ()=>{
+app.listen(process.env.PORT, ()=>{
     connectToDB()
     console.log(`Server Started at PORT: ${process.env.PORT}`)
 })
